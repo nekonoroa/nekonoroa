@@ -34,11 +34,3 @@ Backend enthusiast, system architect-in-training, and occasional modder. Current
     <img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" alt="Go">
     <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS">
 </div>
-
-
----
-
-<!-- GitHub Stats -->
-<div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=nekonoroa&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="github-stats">
-</div>
